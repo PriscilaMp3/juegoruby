@@ -18,9 +18,10 @@ GEM
 
 PLATFORMS
   aarch64-linux
+  x64-mingw-ucrt
 
 DEPENDENCIES
   rspec
 
 BUNDLED WITH
-   2.4.6
+   2.4.19
